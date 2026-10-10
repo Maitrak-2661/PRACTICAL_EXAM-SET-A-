@@ -1,0 +1,49 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Secrets and local environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build/package artifacts
+build/
+dist/
+*.egg-info/
+
+# Large model files are intentionally NOT ignored in this project:
+# models/ann_model.keras
+# models/preprocessing.joblib
+
+# Dataset and generated outputs are intentionally kept for reproducibility.

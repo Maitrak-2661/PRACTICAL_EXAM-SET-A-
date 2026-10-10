@@ -1,0 +1,16 @@
+# Core data analysis
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+
+# Machine learning and preprocessing
+scikit-learn>=1.2
+joblib>=1.2
+
+# Artificial neural network
+tensorflow>=2.15
+
+# Notebook environment
+jupyter>=1.0
+ipykernel>=6.0
