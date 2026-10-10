@@ -235,7 +235,7 @@ A campaign team could use the clusters to explore different engagement patterns 
 
 ## ▶️ Video Walkthrough
 
-- **Video URL:** `https://drive.google.com/file/d/1zO3OxVU7_ikVfRHfKECJUKrZk15dAen2/view?usp=sharing`
+- **Video URL:** https://drive.google.com/file/d/1zO3OxVU7_ikVfRHfKECJUKrZk15dAen2/view?usp=sharing
 
 
 Make sure the link can be opened by the examiner without requesting access. Do not claim a video is available until the link has been added and tested.
